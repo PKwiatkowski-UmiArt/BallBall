@@ -1,3 +1,6 @@
 [submodule "sdk-submodule"]
 	path = sdk-submodule
 	url = https://github.com/NeatWarePL/sdk-submodule.git
+[submodule "Assets/SDK"]
+	path = Assets/SDK
+	url = https://github.com/NeatWarePL/sdk-submodule.git
